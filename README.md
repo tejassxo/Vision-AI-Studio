@@ -40,7 +40,7 @@ Follow these steps to run the application locally or prepare it for custom deplo
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tejassxo/Vision-AI-Studio
 cd visions-ai
 npm install
 ```
